@@ -1,0 +1,15 @@
+G:\projects\CollatzSearcher\CollatzSearcher\bin\Release\net7.0\CollatzSearcher.exe
+G:\projects\CollatzSearcher\CollatzSearcher\bin\Release\net7.0\CollatzSearcher.deps.json
+G:\projects\CollatzSearcher\CollatzSearcher\bin\Release\net7.0\CollatzSearcher.runtimeconfig.json
+G:\projects\CollatzSearcher\CollatzSearcher\bin\Release\net7.0\CollatzSearcher.dll
+G:\projects\CollatzSearcher\CollatzSearcher\bin\Release\net7.0\CollatzSearcher.pdb
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\CollatzSearcher.csproj.AssemblyReference.cache
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\CollatzSearcher.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\CollatzSearcher.AssemblyInfoInputs.cache
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\CollatzSearcher.AssemblyInfo.cs
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\CollatzSearcher.csproj.CoreCompileInputs.cache
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\CollatzSearcher.dll
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\refint\CollatzSearcher.dll
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\CollatzSearcher.pdb
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\CollatzSearcher.genruntimeconfig.cache
+G:\projects\CollatzSearcher\CollatzSearcher\obj\Release\net7.0\ref\CollatzSearcher.dll
